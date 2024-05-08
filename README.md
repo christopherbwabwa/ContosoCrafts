@@ -7,6 +7,6 @@ You can also rate them.
 ```bash
 git clone https://github.com/christopherbwabwa/ContosoCrafts.git
 ```
-You can unzip the folder & open it with Microsoft Visual Studio.
+After downloading the folder, you can open it with Microsoft Visual Studio.
 
 Check our amazing crafts a play with them :)
